@@ -1,2 +1,2 @@
 # Selenium
-Here we going to push and pull the Selenium framework
+Here we are going to push and pull the Selenium framework
